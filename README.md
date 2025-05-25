@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminsahin21&label=Views&color=28ce1c&style=flat" alt="eminsahin21" /> </p>
 
-- 🌱 I’m currently learning **Kotlin and Java**
+- 🌱 I’m currently learning **Express JS**
 
 - 💬 Ask me about **Web,Mobile**
 
 - 📫 How to reach me **afarukeynalli@gmail.com**
 
-- ⚡ Importantsss **Javsacript,Kotlin,Python,Java**
+- ⚡ Importantsss **Javsacript, Kotlin, Python, ExpressJS **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
