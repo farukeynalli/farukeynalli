@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminsahin21&label=Views&color=28ce1c&style=flat" alt="eminsahin21" /> </p>
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **ASP.Net CORE**
 
-- 💬 Ask me about **Web,Mobile**
+- 💬 Ask me about **Web Backend**
 
 - 📫 How to reach me **afarukeynalli@gmail.com**
 
-- ⚡ Importantsss **Javsacript, Kotlin, Python, ExpressJS **
+- ⚡ Importantsss **Javsacript, Kotlin, Python, ExpressJS, ASP.NET CORE **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
